@@ -10,8 +10,8 @@
 #define BUZZER_PIN 4 // Pino do Buzzer
 
 // Configurações da rede Wi-Fi
-const char* ssid = "NPITI-IoT";        
-const char* password = "NPITI-IoT";    
+const char* ssid = "";        
+const char* password = "";    
 
 // Configurações do Adafruit IO
 #define AIO_SERVER      "io.adafruit.com"
