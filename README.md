@@ -49,6 +49,7 @@ O **Decibelímetro IoT** possibilita a medição de níveis de som (decibéis) e
   - [Maqiatto](https://www.maqiatto.com/) ou [Adafruit IO](https://io.adafruit.com/) — ou outro compatível
 - **Sensor de Som**  
   - Sensor genérico (p. ex.: microfone com saída analógica)
+  - Foi utilizado o KY-037
 
 ---
 
