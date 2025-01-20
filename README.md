@@ -43,7 +43,7 @@ O **Decibelímetro IoT** possibilita a medição de níveis de som (decibéis) e
 - **Bibliotecas**  
   - [ESP8266/ESP32 Core](https://github.com/esp8266/Arduino) (se estiver usando a Arduino IDE)  
   - [SPIFFS](https://github.com/espressif/arduino-esp32fs-plugin) (para leitura/escrita de arquivos)
-  - <ctime> ( para a inclusão do horário nos logs salvos no SPIFFS
+  - ctime ( para a inclusão do horário nos logs salvos no SPIFFS
   - **(Opcional)** Biblioteca de MQTT (como PubSubClient ou a da própria Adafruit)  
 - **Broker MQTT**  
   - [Maqiatto](https://www.maqiatto.com/) ou [Adafruit IO](https://io.adafruit.com/) — ou outro compatível
